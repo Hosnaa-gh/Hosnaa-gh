@@ -2,7 +2,7 @@
   <img src="PUT-YOUR-BANNER-LINK-HERE" width="800" />
 </p>
 
-<h1 align="center">Hi, I'm Hosna </h1>
+<h1 align="center">Hey there 👋 </h1>
 
 <p align="center">
   A passionate learner and aspiring developer who enjoys creating, exploring, and improving every day through code.  
