@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Skills
+## 🚀My Skills
 
 <p align="center">
 
