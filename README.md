@@ -43,12 +43,12 @@
 
 ## 📌 About Me
 
-- 🌱 I’m currently learning **Python** and **Java**.  
-- 💻 I enjoy building projects and improving my coding style.  
-- ✨ I love clean and readable code.  
-- 🎧 Coding with music is my favorite vibe.  
-- 🧩 I’m interested in backend development, frontend basics, and problem-solving.  
-- 🚀 I’m always trying to learn something new.
+ 🌱 I’m currently learning **Python** and **Java**.  
+ 💻 I enjoy building projects and improving my coding style.  
+ ✨ I love clean and readable code.  
+ 🎧 Coding with music is my favorite vibe.  
+ 🧩 I’m interested in backend development, frontend basics, and problem-solving.  
+ 🚀 I’m always trying to learn something new.
 
 ---
 
