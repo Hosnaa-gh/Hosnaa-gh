@@ -10,7 +10,7 @@
 Turning ideas into clean, functional software while continuously learning new technologies and sharpening my skills.
 </p>
 
----
+
 
 ## 🚀 Skills
 
@@ -18,7 +18,7 @@ Turning ideas into clean, functional software while continuously learning new te
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js" />
 </p>
 
----
+
 
 ## 📌 About Me
 
@@ -29,7 +29,7 @@ Turning ideas into clean, functional software while continuously learning new te
  ▫️I’m interested in backend development, frontend basics, and problem-solving.  
  ▪️I’m always trying to learn something new.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -39,12 +39,5 @@ Turning ideas into clean, functional software while continuously learning new te
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosnaa-gh&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🌐 Socials
 
-<p align="center">
-  <!-- Add your social links here, e.g.:
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  -->
-</p>
