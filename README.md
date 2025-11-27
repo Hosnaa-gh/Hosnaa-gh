@@ -1,13 +1,4 @@
 <p align="center">
-  <h1 align="center" style="
-  font-size: 48px;
-  font-weight: 700;
-  color: #00eaff;
-  text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff, 0 0 40px #00eaff;
-">
-  HOSNA GHOREISHI
-</h1>
-
   <img src="PUT-YOUR-BANNER-LINK-HERE" width="800" />
 </p>
 
