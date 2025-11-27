@@ -7,7 +7,7 @@
 <p align="center">
    ▫️A passionate learner and aspiring developer who enjoys creating, exploring, and improving every day through code.  
   <br>
-   ▫️Turning ideas into clean, functional software while continuously learning new technologies and sharpening my skills. 🚀
+   ▫️Turning ideas into clean, functional software while continuously learning new technologies and sharpening my skills. 
 </p>
 
 ---
