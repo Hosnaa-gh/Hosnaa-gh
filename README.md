@@ -2,12 +2,12 @@
   <img src="PUT-YOUR-BANNER-LINK-HERE" width="800" />
 </p>
 
-<h1 align="center">Hi, I'm Hosna 👩‍💻</h1>
+<h1 align="center">Hi, I'm Hosna 👩🏻‍💻</h1>
 
 <p align="center">
-  A passionate learner and aspiring developer who enjoys creating, exploring, and improving every day through code.  
+   ▫️A passionate learner and aspiring developer who enjoys creating, exploring, and improving every day through code.  
   <br>
-  Currently learning <strong>Python</strong> and <strong>Java</strong> to expand my programming knowledge. 🚀
+   ▫️Turning ideas into clean, functional software while continuously learning new technologies and sharpening my skills. 🚀
 </p>
 
 ---
