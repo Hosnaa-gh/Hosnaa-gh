@@ -15,8 +15,29 @@
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js" />
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
 </p>
+
 
 ---
 
