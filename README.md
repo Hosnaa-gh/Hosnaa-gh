@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="PUT-YOUR-BANNER-LINK-HERE" width="800" />
 </p>
 
 <h1 align="center">Hey there 👋 </h1>
