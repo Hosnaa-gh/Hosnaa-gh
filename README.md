@@ -22,8 +22,7 @@ Turning ideas into clean, functional software while continuously learning new te
 ## 📌 About Me
 
  ▫️I’m currently learning **Python** and **Java**.                  ▪️I’m always trying to learn something new.
- ▪️I enjoy building small projects and improving my coding style.   ▫️I love clean, simple, and readable code. 
- ▫️I’m interested in backend development, frontend basics, and problem-solving.  
+ ▪️I enjoy building small projects and improving my coding style.   ▫️I’m interested in backend development, frontend basics, and problem-solving.  
 
 
 ## GitHub Stats
