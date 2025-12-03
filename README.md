@@ -31,14 +31,11 @@ Turning ideas into clean, functional software while continuously learning new te
 
 
 
-
 ## 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Hosnaa-gh/Hosnaa-gh/main/profile-metrics.svg" />
-
-</div>
-
-
-
-
-
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Hosnaa-gh/Hosnaa-gh/main/profile-metrics.svg" 
+    alt="GitHub Metrics"
+  />
+</p>
