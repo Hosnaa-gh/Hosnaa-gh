@@ -31,16 +31,14 @@ Turning ideas into clean, functional software while continuously learning new te
 
 
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://gh-stats-henna.vercel.app/api?username=Hosnaa-gh&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://gh-stats-henna.vercel.app/api/top-langs/?username=Hosnaa-gh&layout=compact&theme=tokyonight)
-
+<p align="center">
+<img src=""/>
+<br><br>
+<img src=""/>
+</p>
 </div>
 
 
