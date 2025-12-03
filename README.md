@@ -12,7 +12,7 @@ Turning ideas into clean, functional software while continuously learning new te
 
 
 
-## My Skills align="center"
+## My Skills 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js" />
