@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
 </p>
 
 <h1 align="center">Hey there 👋 </h1>
@@ -34,6 +34,4 @@ Turning ideas into clean, functional software while continuously learning new te
   />
 </p> -->
 
-<p align="center">
-  <img src="./assets/command-center.svg" alt="Hosna Developer Command Center" width="100%" />
-</p>
+
