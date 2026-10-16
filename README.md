@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hosna Ghoreishiamrei
+# Seyedehhosna Ghoreishiamrei
 
 ### Computer Science Undergraduate | Aspiring AI Engineer
 
@@ -24,10 +24,6 @@ Passionate about software development, problem-solving, and turning ideas into f
 ### About Me
 
 - 🎓 Studying **BSc Computer Science** at **Brunel University London**
-- 💻 Passionate about **Software Engineering and Full-Stack Development**
-- 🤖 Aspiring **AI Engineer**, interested in Artificial Intelligence and Machine Learning
-- 🌱 Continuously learning new technologies and improving my programming skills
-- 🚀 Enjoy building practical projects and solving real-world problems
 
 <br>
 
