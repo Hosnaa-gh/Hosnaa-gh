@@ -35,8 +35,9 @@ Passionate about software development, problem-solving, and turning ideas into f
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br><br>
 
-*Code. Learn. Build. Improve.*
+<a href="mailto:hosna.ghoreishii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
