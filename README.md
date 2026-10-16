@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 </p>
 
 <h1 align="center">Hey there 👋 </h1>
@@ -32,7 +32,7 @@ Turning ideas into clean, functional software while continuously learning new te
     src="https://raw.githubusercontent.com/Hosnaa-gh/Hosnaa-gh/main/profile-metrics.svg" 
     alt="GitHub Metrics"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img src="./assets/command-center.svg" alt="Hosna Developer Command Center" width="100%" />
