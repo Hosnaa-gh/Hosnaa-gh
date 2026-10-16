@@ -21,12 +21,6 @@ Passionate about software development, problem-solving, and turning ideas into f
 
 <br>
 
-### About Me
-
-- 🎓 Studying **BSc Computer Science** at **Brunel University London**
-
-<br>
-
 ---
 
 <div align="center">
