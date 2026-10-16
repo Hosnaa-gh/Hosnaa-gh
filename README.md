@@ -1,37 +1,56 @@
- <p align="center">
-</p>
 
-<h1 align="center">Hey there 👋 </h1>
+<div align="center">
 
-<p align="center">
-  A passionate learner and aspiring developer who enjoys creating, exploring, and improving every day through code.  
-  <br>
-Turning ideas into clean, functional software while continuously learning new technologies and sharpening my skills.
-</p>
+# Hosna Ghoreishiamrei
 
+### Computer Science Undergraduate | Aspiring AI Engineer
 
+Passionate about software development, problem-solving, and turning ideas into functional applications.
 
-## My Skills 
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js" />
-</p>
+### My Skills
 
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,js&theme=dark" alt="Programming Languages" />
 
+<br><br>
 
-## 📌 About Me
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse&theme=dark" alt="Development Tools" />
 
- ▫️I’m currently learning **Python** and **Java**.                  ▪️I’m always trying to learn something new.
- ▪️I enjoy building small projects and improving my coding style.   ▫️I’m interested in backend development, frontend basics, and problem-solving.  
+</div>
 
+<br>
 
-## GitHub Stats
+### About Me
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Hosnaa-gh/Hosnaa-gh/main/profile-metrics.svg" 
-    alt="GitHub Metrics"
-  />
-</p> 
+- 🎓 Studying **BSc Computer Science** at **Brunel University London**
+- 💻 Passionate about **Software Engineering and Full-Stack Development**
+- 🤖 Aspiring **AI Engineer**, interested in Artificial Intelligence and Machine Learning
+- 🌱 Continuously learning new technologies and improving my programming skills
+- 🚀 Enjoy building practical projects and solving real-world problems
 
+<br>
 
+---
+
+<div align="center">
+
+<img src="./profile-metrics.svg" alt="Hosna's GitHub Statistics and Contributions" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://github.com/Hosnaa-gh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+*Code. Learn. Build. Improve.*
+
+</div>
