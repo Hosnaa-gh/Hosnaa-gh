@@ -33,3 +33,7 @@ Turning ideas into clean, functional software while continuously learning new te
     alt="GitHub Metrics"
   />
 </p>
+
+<p align="center">
+  <img src="./assets/command-center.svg" alt="Hosna Developer Command Center" width="100%" />
+</p>
